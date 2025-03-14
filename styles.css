@@ -271,7 +271,7 @@ main {
     z-index: 1;
 }
 
-.info-card::before {
+/* .info-card::before {
     content: '';
     position: absolute;
     top: 0;
@@ -281,17 +281,17 @@ main {
     background-color: var(--accent-color);
     transition: width 0.3s ease;
     z-index: -1;
-}
+} */
 
 .info-card:hover {
     transform: translateY(-10px);
     box-shadow: var(--card-hover-shadow);
 }
 
-.info-card:hover::before {
+/* .info-card:hover::before {
     width: 100%;
     opacity: 0.05;
-}
+} */
 
 .info-card h3 {
     color: var(--accent-color);
