@@ -88,12 +88,16 @@ header::after {
 .profile-img-container {
     position: relative;
     margin-bottom: 1.5rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 220px; /* 设置固定宽度，与外圈一致 */
+    height: 220px; /* 设置固定高度，与外圈一致 */
+    margin: 0 auto 1.5rem;
 }
 
 .profile-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     width: 180px;
     height: 180px;
     border-radius: 50%;
@@ -101,7 +105,6 @@ header::after {
     border: 4px solid var(--white);
     box-shadow: 0 4px 15px var(--shadow);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    position: relative;
     z-index: 2;
 }
 
@@ -121,11 +124,10 @@ header::after {
 
 .profile-ring {
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 220px;
-    height: 220px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     border: 2px dashed var(--accent-color);
     border-radius: 50%;
     animation: rotate 20s linear infinite;
