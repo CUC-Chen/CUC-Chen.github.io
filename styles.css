@@ -88,6 +88,9 @@ header::after {
 .profile-img-container {
     position: relative;
     margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .profile-img {
@@ -103,6 +106,19 @@ header::after {
 }
 
 /* Animated ring around profile picture */
+/* .profile-ring {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    right: -10px;
+    bottom: -10px;
+    border: 2px dashed var(--accent-color);
+    border-radius: 50%;
+    animation: rotate 20s linear infinite;
+    opacity: 0.6;
+}
+ */
+
 .profile-ring {
     position: absolute;
     top: -10px;
