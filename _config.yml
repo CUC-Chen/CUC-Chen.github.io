@@ -13,11 +13,11 @@ repository: CUC-Chen/CUC-Chen.github.io
 
 # 作者信息
 author:
-  name             : "Ze Chen (陈泽)"
+  name             : "Ze Chen"
   avatar           : "/images/profile.jpg"
   bio              : "Researcher in Computer Vision"
   location         : "Beijing, China"
-  employer         : "Communication University of China"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=Du9fl5sAAAAJ&hl=zh-CN"
   email            : "chenze@cuc.edu.cn"
