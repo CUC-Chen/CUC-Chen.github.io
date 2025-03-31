@@ -15,7 +15,7 @@ repository: CUC-Chen/CUC-Chen.github.io
 author:
   name             : "Ze Chen"
   avatar           : "/images/profile.jpg"
-  bio              : "Researcher in Computer Vision"
+  bio              : 
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
