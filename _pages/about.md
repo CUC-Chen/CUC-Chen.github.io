@@ -36,8 +36,7 @@ I am a self-motivated and ambitious student at Communication University of China
 
 Shaode Yu, ***Ze Chen***, Zhimu Yang, Jiacheng Gu, Bizu Feng, Qiurui Sun*
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/10890447) | [**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890447) | [**Code**](https://github.com/CUC-Chen/KAN4IQA) <strong><span class='show_paper_citations' data='10890447'></span></strong>
-
+[Paper](https://ieeexplore.ieee.org/abstract/document/10890447) | [Code](https://github.com/CUC-Chen/KAN4IQA) <strong><span class='show_paper_citations' data='10890447'></span></strong>
 - This paper is the first to apply Kolmogorov-Arnold Networks (KANs) to image quality assessment
 - We introduce a novel Taylor series-based KAN (TaylorKAN) that models complex nonlinear relationships between image features and quality scores
 - Extensive experiments on four databases (BID2011, CID2013, CLIVE, and KonIQ-10k) demonstrate that KANs outperform traditional methods
