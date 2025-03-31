@@ -54,7 +54,7 @@ I am interested in exploring the current level of perception and understanding o
 ## Probabilistic Modeling
 Recently, flow matching has brought fresh ideas to generative modeling. My focus splits into two: advancing probabilistic modeling methods like DDPM and DDIM, which rely on the mathematics of SDEs and ODEs that I'm fascinated by, and designing novel model architectures by turning my brainstorm into real outcomes.
 
-# 📖 Education
+# 📖 Educations
 - *2023.09 - Present*, **Undergraduate Studies**, B.Eng. in Artificial Intelligence, Communication University of China
 - *2020.09 - 2023.06*, **High School Education**, Shanghai Shixi High School
 
