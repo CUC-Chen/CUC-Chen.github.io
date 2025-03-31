@@ -25,7 +25,7 @@ redirect_from:
 I am a self-motivated and ambitious student at Communication University of China, focused on computer vision research. I am committed to producing high-quality work. I am currently an undergraduate student at School of Information and Communication Engineering and a member of MIPG (Multimedia Intelligent Processing Group).
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our paper "Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment" has been accepted by ICASSP 2025!
+- *2024.12*: &nbsp;🎉🎉 Excited to announce my first published work! Our paper "Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment" has been accepted by ICASSP 2025!
 
 # 📝 Publications 
 
