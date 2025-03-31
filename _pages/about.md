@@ -62,7 +62,7 @@ Recently, flow matching has brought fresh ideas to generative modeling. My focus
 <span class='anchor' id='research-experiences'></span>
 # 💻 Research Experiences
 - *2024.09 - Present*, **Research Intern**, Multimedia Intelligent Processing Group (MIPG), State Key Laboratory of Media Convergence and Communication, Communication University of China
-- *2021.07 - 2023.01*, **Research Intern**, State Key Laboratory of Advanced Optical Communication Systems and Networks, Shanghai Jiao Tong University
+- *2021.07 - 2023.01*, **Research Intern**, School of Physics and Astronomy, Shanghai Jiao Tong University
 
 ---
 
