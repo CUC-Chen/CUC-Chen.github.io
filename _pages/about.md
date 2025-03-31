@@ -17,42 +17,74 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<div style="margin-bottom: 30px;">
+  <h1 style="font-size: 2.5em; margin-bottom: 10px;">Ze Chen (陈泽)</h1>
+  <p style="font-size: 1.2em; color: #555;">Researcher in Artificial Intelligence</p>
+</div>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a self-motivated and ambitious undergraduate student at the School of Information and Communication Engineering, Communication University of China. My research focuses on computer vision, generative models, and large language models. As a member of the Multimedia Intelligent Processing Group (MIPG) at the State Key Laboratory of Media Convergence and Communication, I am committed to producing high-quality research and innovation in the field of AI.
 
+My research interests include artificial intelligence, deep generative models, and computer vision. I have published in AI conferences with <a href='https://scholar.google.com.hk/citations?user=Du9fl5sAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>2+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com.hk/citations?user=Du9fl5sAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.07*: &nbsp;🎉🎉 Launched my new academic homepage! Welcome to explore my research journey.
+- *2024.04*: &nbsp;🎉🎉 Our paper "Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment" has been accepted by ICASSP 2025!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/kan_iqa.png' alt="KAN for Image Quality Assessment" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment](https://ieeexplore.ieee.org/abstract/document/10890447)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shaode Yu, **Ze Chen**, Zhimu Yang, Jiacheng Gu, Bizu Feng, Qiurui Sun*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10890447) | [**PDF**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10890447) | [**Code**](https://github.com/CUC-Chen/KAN4IQA) <strong><span class='show_paper_citations' data='10890447'></span></strong>
+
+- This paper is the first to apply Kolmogorov-Arnold Networks (KANs) to image quality assessment
+- We introduce a novel Taylor series-based KAN (TaylorKAN) that models complex nonlinear relationships between image features and quality scores
+- Extensive experiments on four databases (BID2011, CID2013, CLIVE, and KonIQ-10k) demonstrate that KANs outperform traditional methods
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 🎖 Research Interests
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Generative AI
+With the advancement of deep generative models, my research focus has shifted from U-Net based models to those built on DiT (Diffusion Transformer) architectures. I am committed to exploring token interactions in DiT and developing video generation techniques that align with real-world physical principles.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Controllable Generation
+- Editing
+- Diffusion Models
+- Autoregressive Models
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+## Large Language Models
+I am interested in exploring the current level of perception and understanding of the real world exhibited by Multimodal Large Language Models (MLLMs). At the same time, I am considering more rational and effective approaches to LoRA fine-tuning, particularly to enable personalized customization of these models.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Multimodal LLMs
+- Fine-Tuning
+
+## Probabilistic Modeling
+Recently, flow matching has brought fresh ideas to generative modeling. My focus splits into two: advancing probabilistic modeling methods like DDPM and DDIM, which rely on the mathematics of SDEs and ODEs that I'm fascinated by, and designing novel model architectures by turning my brainstorm into real outcomes.
+
+- Probabilistic Models
+- Differential Equations
+
+# 📖 Education
+- *2023.09 - Present*, **Undergraduate Studies**, B.Eng. in Artificial Intelligence, Communication University of China
+- *2020.09 - 2023.06*, **High School Education**, Shanghai Shixi High School
+
+# 💻 Research Experience
+- *2024.09 - Present*, **Research Intern**, Multimedia Intelligent Processing Group (MIPG), State Key Laboratory of Media Convergence and Communication, Communication University of China
+- *2021.07 - 2023.01*, **Research Intern**, State Key Laboratory of Advanced Optical Communication Systems and Networks, Shanghai Jiao Tong University
+
+# 📞 Contact Information
+- **Email:** [chenze@cuc.edu.cn](mailto:chenze@cuc.edu.cn)
+- **GitHub:** [github.com/CUC-Chen](https://github.com/CUC-Chen)
+- **Google Scholar:** [Scholar Profile](https://scholar.google.com.hk/citations?user=Du9fl5sAAAAJ&hl=zh-CN)
+- **ORCID:** [0009-0000-5997-2259](https://orcid.org/0009-0000-5997-2259)
+
+---
+
+<div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 50px;">
+Last updated: July 2024
+</div>
