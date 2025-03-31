@@ -43,6 +43,7 @@ Shaode Yu, <u><strong>Ze Chen</strong></u>, Zhimu Yang, Jiacheng Gu, Bizu Feng, 
 </div>
 </div>
 
+<span class='anchor' id='research-interests'></span>
 # 🧠 Research Interests
 
 ## Deep Generative Models
@@ -58,7 +59,8 @@ Recently, flow matching has brought fresh ideas to generative modeling. My focus
 - *2023.09 - Present*, **Undergraduate Studies**, B.Eng. in Artificial Intelligence, Communication University of China
 - *2020.09 - 2023.06*, **High School Education**, Shanghai Shixi High School
 
-# 💻 Research Experience
+<span class='anchor' id='research-experiences'></span>
+# 💻 Research Experiences
 - *2024.09 - Present*, **Research Intern**, Multimedia Intelligent Processing Group (MIPG), State Key Laboratory of Media Convergence and Communication, Communication University of China
 - *2021.07 - 2023.01*, **Research Intern**, State Key Laboratory of Advanced Optical Communication Systems and Networks, Shanghai Jiao Tong University
 
