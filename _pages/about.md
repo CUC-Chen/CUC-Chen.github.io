@@ -34,7 +34,7 @@ I am a self-motivated and ambitious student at Communication University of China
 
 [Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment](https://ieeexplore.ieee.org/abstract/document/10890447)
 
-Shaode Yu, ***Ze Chen***, Zhimu Yang, Jiacheng Gu, Bizu Feng, Qiurui Sun*
+Shaode Yu, <u><strong>Ze Chen</strong></u>, Zhimu Yang, Jiacheng Gu, Bizu Feng, Qiurui Sun*
 
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10890447) | [[Code]](https://github.com/CUC-Chen/KAN4IQA) <strong><span class='show_paper_citations' data='10890447'></span></strong>
 - This paper is the first to apply Kolmogorov-Arnold Networks (KANs) to image quality assessment
