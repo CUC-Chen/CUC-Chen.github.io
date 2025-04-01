@@ -24,6 +24,10 @@ redirect_from:
 
 I am a self-motivated and ambitious student at Communication University of China, focused on computer vision research. I am committed to producing high-quality work. I am currently an undergraduate student at School of Information and Communication Engineering and a member of MIPG (Multimedia Intelligent Processing Group).
 
+My research focuses on two primary areas:
+* **Deep Generative Models**: I work on diffusion models and autoregressive models, with a focus on controllable generation and editing. I'm particularly interested in transformer-based architectures like DiT and developing video generation techniques aligned with physical principles.
+* **Large Language Models**: My research includes LLM alignment and efficient fine-tuning approaches, especially LoRA-based techniques for personalized model customization while maintaining alignment with human values.
+
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Excited to announce my first published work! Our paper "Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment" has been accepted by ICASSP 2025!
 
@@ -42,18 +46,6 @@ Shaode Yu, <u><strong>Ze Chen</strong></u>, Zhimu Yang, Jiacheng Gu, Bizu Feng, 
 - Extensive experiments on four databases (BID2011, CID2013, CLIVE, and KonIQ-10k) demonstrate that KANs outperform traditional methods.
 </div>
 </div>
-
-<span class='anchor' id='research-interests'></span>
-# 🧠 Research Interests
-
-## Deep Generative Models
-With the advancement of deep generative models, my research focus has shifted from U-Net based models to those built on DiT (Diffusion Transformer) architectures. I am committed to exploring token interactions in DiT and developing video generation techniques that align with real-world physical principles.
-
-## Large Language Models
-I am interested in exploring the current level of perception and understanding of the real world exhibited by Multimodal Large Language Models (MLLMs). At the same time, I am considering more rational and effective approaches to LoRA fine-tuning, particularly to enable personalized customization of these models.
-
-## Probabilistic Modeling
-Recently, flow matching has brought fresh ideas to generative modeling. My focus splits into two: advancing probabilistic modeling methods like DDPM and DDIM, which rely on the mathematics of SDEs and ODEs that I'm fascinated by, and designing novel model architectures by turning my brainstorm into real outcomes.
 
 # 📖 Educations
 - *2023.09 - Present*, **Undergraduate Studies**, B.Eng. in Artificial Intelligence, Communication University of China
