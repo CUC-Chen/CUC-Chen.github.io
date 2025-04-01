@@ -25,7 +25,7 @@ redirect_from:
 I am a self-motivated and ambitious student at Communication University of China, focused on computer vision research. I am committed to producing high-quality work. I am currently an undergraduate student at School of Information and Communication Engineering and a member of MIPG (Multimedia Intelligent Processing Group).
 
 My research focuses on two primary areas:
-* **Deep Generative Models**: I work on diffusion models and autoregressive models, with a focus on controllable generation and editing. I'm particularly interested in transformer-based architectures like DiT and developing video generation techniques aligned with physical principles.
+* **Deep Generative Models**: I work on diffusion models and autoregressive models, with a focus on controllable generation and editing. I'm particularly interested in transformer-based architectures like DiT and video generation techniques aligned with physical principles.
 * **Large Language Models**: My research includes LLM alignment and efficient fine-tuning approaches, especially LoRA-based techniques for personalized model customization while maintaining alignment with human values.
 
 # 🔥 News
