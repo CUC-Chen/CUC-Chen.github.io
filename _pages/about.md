@@ -26,7 +26,7 @@ I am a self-motivated and ambitious student at Communication University of China
 
 My research focuses on two primary areas:
 * **Deep Generative Models**: I work on diffusion models and autoregressive models, with a focus on controllable generation and editing. I'm particularly interested in transformer-based architectures like DiT and video generation techniques aligned with physical principles.
-* **Large Language Models**: My research includes LLM alignment and efficient fine-tuning approaches, especially LoRA-based techniques for personalized model customization while maintaining alignment with human values.
+* **Vision-Language Models**: My research includes VLM alignment and efficient fine-tuning approaches, especially LoRA-based techniques for multimodal model customization while maintaining cross-modal alignment between visual and textual representations.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Excited to announce my first published work! Our paper "Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment" has been accepted by ICASSP 2025!
