@@ -41,9 +41,6 @@ My research focuses on two primary areas:
 Shaode Yu, <u><strong>Ze Chen</strong></u>, Zhimu Yang, Jiacheng Gu, Bizu Feng, Qiurui Sun*
 
 [[Paper]](https://arxiv.org/pdf/2409.07762) | [[Code]](https://github.com/CUC-Chen/KAN4IQA) <strong><span class='show_paper_citations' data='10890447'></span></strong>
-- This paper is the first to apply Kolmogorov-Arnold Networks (KANs) to image quality assessment.
-- We introduce a novel Taylor series-based KAN (TaylorKAN) that models complex nonlinear relationships between image features and quality scores.
-- Extensive experiments on four databases (BID2011, CID2013, CLIVE, and KonIQ-10k) demonstrate that KANs outperform traditional methods.
 </div>
 </div>
 
