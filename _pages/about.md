@@ -19,14 +19,10 @@ redirect_from:
 
 <div style="margin-bottom: 30px;">
   <h1 style="font-size: 2.5em; margin-bottom: 10px;">Ze Chen</h1>
-  <p style="font-size: 1.2em; color: #555;">Researcher in Computer Vision</p>
+  <p style="font-size: 1.2em; color: #555;">Undergraduate Student</p>
 </div>
 
-I am a self-motivated and ambitious student at Communication University of China, focused on computer vision research. I am committed to producing high-quality work. I am currently an undergraduate student at School of Information and Communication Engineering and a member of MIPG (Multimedia Intelligent Processing Group).
-
-My research focuses on two primary areas:
-* **Deep Generative Models**: I work on diffusion models and autoregressive models, with a focus on controllable generation and editing. I'm particularly interested in transformer-based architectures like DiT and video generation techniques aligned with physical principles.
-* **Vision-Language Models**: My research includes VLM alignment and efficient fine-tuning approaches, especially LoRA-based techniques for multimodal model customization while maintaining cross-modal alignment between visual and textual representations.
+I am an undergraduate student at the School of Information and Communication Engineering, Communication University of China, and a member of the Multimedia Intelligent Processing Group (MIPG). My academic interests lie in computer vision, and I am currently focused on research in deep generative models.
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Honored that my first research paper, "Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment," has been accepted to ICASSP 2025.
