@@ -29,7 +29,7 @@ I am an undergraduate student at the School of Information and Communication Eng
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/kan_iqa.png' alt="KAN for Image Quality Assessment" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/kan_iqa.png' alt="KAN for Image Quality Assessment" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment](https://ieeexplore.ieee.org/abstract/document/10890447)
