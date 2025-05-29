@@ -29,6 +29,17 @@ I am an undergraduate student at the School of Information and Communication Eng
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/taylorkan.jpg' alt="Taylor expansion-based KAN for Image Quality Assessment" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Taylor expansion-based Kolmogorov-Arnold network for blind image quality assessment](https://arxiv.org/abs/2505.21592)
+  
+<u><strong>Ze Chen</strong></u>, Shaode Yu
+
+[[Paper]](https://arxiv.org/abs/2505.21592) | [[Code]](https://github.com/CUC-Chen/KAN4IQA) <strong><span class='show_paper_citations' data='10890447'></span></strong>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/kan_iqa.png' alt="KAN for Image Quality Assessment" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
