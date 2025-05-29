@@ -33,7 +33,7 @@ I am an undergraduate student at the School of Information and Communication Eng
 <div class='paper-box-text' markdown="1">
 [Taylor expansion-based Kolmogorov-Arnold network for blind image quality assessment](https://arxiv.org/abs/2505.21592)
   
-<u><strong>Ze Chen</strong></u>, Shaode Yu
+<u><strong>Ze Chen</strong></u>, Shaode Yu*
 
 [[Paper]](https://arxiv.org/abs/2505.21592) | [[Code]](https://github.com/CUC-Chen/KAN4IQA) <strong><span class='show_paper_citations' data='10890447'></span></strong>
 </div>
