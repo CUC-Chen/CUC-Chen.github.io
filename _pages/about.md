@@ -25,6 +25,8 @@ redirect_from:
 I am an undergraduate student at the School of Information and Communication Engineering, Communication University of China, and a member of the Multimedia Intelligent Processing Group (MIPG). My academic interests lie in computer vision, and I am currently focused on research in deep generative models.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Thrilled to share that my independently completed paper, "Taylor expansion-based Kolmogorov-Arnold network for blind image quality assessment", has been accepted to JVCIR (SCI, JCR Q2).
+
 - *2024.12*: &nbsp;🎉🎉 Honored that my first research paper, "Exploring Kolmogorov-Arnold networks for realistic image sharpness assessment", has been accepted to ICASSP 2025.
 
 # 📝 Publications 
